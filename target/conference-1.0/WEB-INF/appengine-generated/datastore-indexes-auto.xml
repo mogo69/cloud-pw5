@@ -1,21 +1,4 @@
-<!-- Indices written at Wed, 7 Jan 2015 14:10:28 EET -->
+<!-- Indices written at Sat, 14 Mar 2015 19:00:12 EET -->
 
-<datastore-indexes>
-<datastore-index kind="Conference" ancestor="false" source = "auto">
-<property name="city" direction="asc"/>
-<property name="maxAttendees" direction="asc"/>
-</datastore-index>
-<datastore-index kind="Conference" ancestor="false" source = "auto">
-<property name="city" direction="asc"/>
-<property name="maxAttendees" direction="asc"/>
-<property name="name" direction="asc"/>
-</datastore-index>
-<datastore-index kind="Conference" ancestor="false" source = "auto">
-<property name="city" direction="asc"/>
-<property name="name" direction="asc"/>
-</datastore-index>
-<datastore-index kind="Conference" ancestor="false" source = "auto">
-<property name="maxAttendees" direction="asc"/>
-<property name="name" direction="asc"/>
-</datastore-index>
-</datastore-indexes>
+<datastore-indexes/>
+
